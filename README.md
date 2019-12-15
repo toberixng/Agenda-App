@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mdbvue
 
 > Vue Bootstrap with Material Design
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+Agenda-App
+R Agenda App files
+>>>>>>> 0e018fe26ff0c35e8370ae36c9ab8c614e4e9100
